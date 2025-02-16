@@ -22,8 +22,8 @@ Noroff School of Technology - [Noroff University](https://www.noroff.no/en/studi
 ## About me
 
 - I find learning is the ultimate activity 🤓
-- Exploring the world with my fiancé 🌏
-- Grew up in a rock 'n' roll family 🤘
+- Love exploring the world with my fiancé 🌏
+- Grew up on the countryside, live in a big city 🌆
 - Used to play in a band 🎸
 
 ### ⚡ Fun fact:
