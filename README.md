@@ -1,6 +1,5 @@
 ## Hello there 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on toning my front-end skills
 - 🌱 I’m currently learning Rust in addition to my front-end studies at Noroff University
