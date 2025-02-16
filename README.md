@@ -1,7 +1,7 @@
 ## Hello there 👋
 
-🔭 Continuously working on toning my front-end skills.<br/>
-🌱 I’m currently learning **Rust** with [Rustlings](https://github.com/rust-lang/rustlings), and _The_ [Book](https://doc.rust-lang.org/stable/book/).<br/>
+🔭 I'm continuously working on toning my front-end skills.<br/>
+🌱 Currently I am learning **Rust** with [Rustlings](https://github.com/rust-lang/rustlings), and _The_ [Book](https://doc.rust-lang.org/stable/book/).<br/>
 📚 Reading the 20th Anniversary Edition of [The Pragmatic Programmer](https://www.goodreads.com/book/show/45280024-the-pragmatic-programmer) by Andrew Hunt and David Thomas.
 
 ### 👨‍💻 Have a look at some of my work:
