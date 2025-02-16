@@ -5,8 +5,8 @@ My name is Tele Caster Nilsen, and I’m a web developer with experience in rela
 ---
 
 🔭 I'm continuously working on toning my developer skills.<br/>
-👨‍🎓 I'm a student at [Noroff University](#studies)<br/>
-🌱 Currently I am learning **Rust** with [Rustlings](https://github.com/rust-lang/rustlings)<br/>
+👨‍🎓 I'm a student at [Noroff University](#studies).<br/>
+🌱 Currently I am learning **Rust** with [Rustlings](https://github.com/rust-lang/rustlings).<br/>
 📚 Reading the 20th Anniversary Edition of [The Pragmatic Programmer](https://www.goodreads.com/book/show/45280024-the-pragmatic-programmer) by Andrew Hunt and David Thomas.
 
 ### 👨‍💻 Have a look at some of my work:
@@ -41,7 +41,7 @@ Noroff School of Technology and Digital Media - [Noroff University](https://www.
 ✅ CSS<br/>
 ✅ JavaScript<br/>
 🟡 MySQL / SQL<br/>
-🟡 [.NET](https://dotnet.microsoft.com/en-us/) _(Beginner -- a comfortable C# reader.)_<br/>
+🟡 [.NET](https://dotnet.microsoft.com/en-us/) _(Beginner -- comfortable reading and running C#)_<br/>
 🟡 [Rust](https://doc.rust-lang.org/stable/book/) _(Beginner. Chasing problems!)_
 
 **Tools & Frameworks**
@@ -53,8 +53,7 @@ Noroff School of Technology and Digital Media - [Noroff University](https://www.
 
 **Expanding into**
 
-🚀 Frontend Frameworks: React<br/>
-🚀 CSS Frameworks: Tailwind<br/>
+🚀 Frontend & CSS Frameworks: React, Tailwind<br/>
 🚀 Rust Ecosystem: WebAssembly (WASM)<br/>
 🚀 DevOps & Deployment: Docker _(Expand my knowledge)_<br/>
 🚀 Cloud Services: Azure _(Familiar, but not actively using)_
