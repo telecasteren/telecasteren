@@ -11,7 +11,7 @@ My name is Tele Caster Nilsen, and I’m a web developer with experience in rela
 
 ### 👨‍💻 Have a look at some of my work:
 
-- [Portfolio](https://tcn-portfolio.netlify.app/)
+- [Portfolio](https://telecasteren.github.io/)
 - [Website - telecasternilsen](https://telecasternilsen.netlify.app/)
 
 ### 📫 How to reach me:
