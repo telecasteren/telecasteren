@@ -47,13 +47,13 @@ Noroff School of Technology and Digital Media - [Noroff University](https://www.
 
 **Tools & Frameworks**
 
-✅ [Node.js](https://nodejs.org/en)<br/>
 ✅ [Git](https://git-scm.com/)<br/>
 ✅ [VS Code](https://code.visualstudio.com/)<br/>
+✅ [Node.js](https://nodejs.org/en)<br/>
+✅ [Next.js](https://nodejs.org/en)<br/>
 ✅ [Tailwind](https://tailwindcss.com/)<br/>
 ✅ [Bootstrap](https://getbootstrap.com/)<br/>
 ✅ [React](https://react.dev/)<br/>
-🟡 [Docker](https://www.docker.com/)
 
 
 **Expanding into**
@@ -61,6 +61,12 @@ Noroff School of Technology and Digital Media - [Noroff University](https://www.
 🚀 Docker _(Expand my knowledge)_<br/>
 🚀 WebAssembly (WASM)<br/>
 🚀 Azure _(Familiar, but not actively using)_
+
+**Database and deployment tools**
+- Docker
+- Vercel
+- Firebase
+- Render
 
 ## About me:
 
