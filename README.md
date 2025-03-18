@@ -55,18 +55,17 @@ Noroff School of Technology and Digital Media - [Noroff University](https://www.
 ✅ [Bootstrap](https://getbootstrap.com/)<br/>
 ✅ [React](https://react.dev/)<br/>
 
+**Database and deployment tools**
+- Docker
+- Vercel
+- Firebase
+- Render
 
 **Expanding into**
 
 🚀 Docker _(Expand my knowledge)_<br/>
 🚀 WebAssembly (WASM)<br/>
 🚀 Azure _(Familiar, but not actively using)_
-
-**Database and deployment tools**
-- Docker
-- Vercel
-- Firebase
-- Render
 
 ## About me:
 
