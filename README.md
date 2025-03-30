@@ -4,7 +4,7 @@ My name is Tele Caster Nilsen, and I’m a web developer and project manager wit
 
 ---
 <details>
-    <summary>Learn more about meß</summary>
+    <summary>Learn more about me</summary>
 
 🔭 I'm continuously working on toning my developer skills.<br/>
 👨‍🎓 I'm a student at [Noroff University](#studies).<br/>
