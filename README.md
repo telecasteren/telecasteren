@@ -5,7 +5,8 @@ My name is Tele Caster Nilsen, and I’m a web developer and project manager wit
 ---
 <details>
     <summary>Learn more about me</summary>
-
+</br>
+</br>
 🔭 I'm continuously working on toning my developer skills.<br/>
 👨‍🎓 I'm a student at [Noroff University](#studies).<br/>
 🌱 Currently I am learning **Rust** with [Rustlings](https://github.com/rust-lang/rustlings).<br/>
