@@ -1,8 +1,10 @@
 ## Hello there 👋
 
-My name is Tele Caster Nilsen, and I’m a web developer with experience in relational databases. Always eager to explore and add to my tech stack, I study at Noroff School of Technology and Digital Media, [see more here](#work-and-studies).
+My name is Tele Caster Nilsen, and I’m a web developer and project manager with experience in relational databases. Always eager to explore and add to my tech stack, I study at Noroff School of Technology and Digital Media, [see more here](#work-and-studies).
 
 ---
+<details>
+    <summary>Learn more about meß</summary>
 
 🔭 I'm continuously working on toning my developer skills.<br/>
 👨‍🎓 I'm a student at [Noroff University](#studies).<br/>
@@ -77,3 +79,4 @@ Noroff School of Technology and Digital Media - [Noroff University](https://www.
 ### ⚡ Fun fact
 
 I once participated in a air-guitar competition. And I got pretty far in the **_regionals_**.. Career change? 😜
+</details>
