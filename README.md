@@ -1,16 +1,19 @@
 ## Hello there 👋
 
-My name is Tele Caster Nilsen, and I’m a web developer and project manager with experience in relational databases. Always eager to explore and add to my tech stack, I study at Noroff School of Technology and Digital Media, [see more here](#work-and-studies).
+My name is Tele Caster Nilsen, and I’m a web developer and project manager with experience in relational databases. Always eager to explore and add to my tech stack, I study at Noroff School of Technology and Digital Media.
 
 ---
-<details>
-    <summary>Learn more about me</summary>
-</br>
-</br>
+
 🔭 I'm continuously working on toning my developer skills.<br/>
 👨‍🎓 I'm a student at [Noroff University](#studies).<br/>
 🌱 Currently I am learning **Rust** with [Rustlings](https://github.com/rust-lang/rustlings).<br/>
 📚 Reading the 20th Anniversary Edition of [The Pragmatic Programmer](https://www.goodreads.com/book/show/45280024-the-pragmatic-programmer) by Andrew Hunt and David Thomas.
+
+
+<details>
+    <summary>Learn more about me</summary>
+</br>
+</br>
 
 ### 👨‍💻 Have a look at some of my work:
 
