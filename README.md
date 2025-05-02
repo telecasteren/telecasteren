@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My name is Tele Caster Nilsen, and I’m a web developer and project manager with experience in relational databases. Always eager to explore and add to my tech stack, I study at Noroff School of Technology and Digital Media.
+My name is Tele Caster Nilsen, and I’m a web developer and project manager with experience in relational databases. Always eager to explore and add to my tech stack, I currently study at Noroff School of Technology and Digital Media.
 
 ---
 
@@ -29,7 +29,7 @@ My name is Tele Caster Nilsen, and I’m a web developer and project manager wit
 
 ### Work:
 
-I'm a **Onboarding manager** for a software company called Cubit, delivering **Audit Caseflow Systems** for Governmental bodies. There I'm in charge of handling new incoming clients and their data. So I dive into different relational databases with SQL, Docker and C#(as a C#-reader, I'm not a C#-writer---yet😉), tackling problems on a steady basis.
+I'm a **Onboarding manager** for a software company called Cubit, delivering **Audit Caseflow Systems** for Governmental bodies. There I'm in charge of handling new incoming clients and see to their data is being converted efficiently. So I dive into different databases, tackling problems on a steady basis.
 
 ### School:<br/>
 
@@ -66,21 +66,4 @@ Noroff School of Technology and Digital Media - [Noroff University](https://www.
 - Vercel
 - Firebase
 - Render
-
-**Expanding into**
-
-🚀 Docker _(Expand my knowledge)_<br/>
-🚀 WebAssembly (WASM)<br/>
-🚀 Azure _(Familiar, but not actively using)_
-
-## About me:
-
-- I find that learning is the ultimate activity 💡
-- Love exploring the world with my fiancé 🌏
-- Grew up on the countryside, live in a big city 🌆
-- Used to play in bands 🎸
-
-### ⚡ Fun fact
-
-I once participated in a air-guitar competition. And I got pretty far in the **_regionals_**.. Career change? 😜
 </details>
