@@ -1,13 +1,14 @@
 ## Hello there 👋
 
-My name is Tele Caster Nilsen, and I’m a web developer and project manager with experience in relational databases. Always eager to explore and add to my tech stack, I currently study at Noroff School of Technology and Digital Media.
+My name is Tele Caster Nilsen, and I’m a web developer and project manager with experience in relational databases.
 
 ---
 
-🔭 I'm continuously working on toning my developer skills.<br/>
+🔭 I'm continuously working on toning my developer skills and keeping up to date, by adding to my tech stack.<br/>
 👨‍🎓 I'm a student at [Noroff University](#studies).<br/>
 🌱 Currently I am learning **Rust** with [Rustlings](https://github.com/rust-lang/rustlings).<br/>
-📚 Reading the 20th Anniversary Edition of [The Pragmatic Programmer](https://www.goodreads.com/book/show/45280024-the-pragmatic-programmer) by Andrew Hunt and David Thomas.
+and **Elm** with [elm-programming](https://elmprogramming.com)<br/>
+📚 Reading [The Pragmatic Programmer](https://www.goodreads.com/book/show/45280024-the-pragmatic-programmer) by Andrew Hunt and David Thomas.
 
 
 <details>
@@ -48,8 +49,9 @@ Noroff School of Technology and Digital Media - [Noroff University](https://www.
 ✅ JavaScript<br/>
 🟡 Typescript<br/>
 🟡 MySQL / SQL<br/>
-🟠 [.NET](https://dotnet.microsoft.com/en-us/) _(Comfortable reading C#.)_<br/>
-🟠 [Rust](https://doc.rust-lang.org/stable/book/) _(Beginner—learning fast while chasing problems!)_
+🟠 [.NET](https://dotnet.microsoft.com/en-us/) _(Beginner)_ <br/>
+🟠 [Rust](https://doc.rust-lang.org/stable/book/) _(Beginner)_ <br/>
+🟠 [Elm](https://elmprogramming.com) _(Beginner)_
 
 **Tools & Frameworks**
 
