@@ -6,14 +6,12 @@ My name is Tele Caster Nilsen, and I’m a web developer and project manager wit
 
 🔭 I'm continuously working on toning my developer skills and keeping up to date, by adding to my tech stack.<br/>
 👨‍🎓 I'm a student at [Noroff University](#studies).<br/>
-🌱 Currently I am learning **Rust** with [Rustlings](https://github.com/rust-lang/rustlings).<br/>
-and **Elm** with [elm-programming](https://elmprogramming.com)<br/>
+🌱 Currently I am learning **Rust** with [Rustlings](https://github.com/rust-lang/rustlings), and **Elm** with [elm-programming](https://elmprogramming.com)<br/>
 📚 Reading [The Pragmatic Programmer](https://www.goodreads.com/book/show/45280024-the-pragmatic-programmer) by Andrew Hunt and David Thomas.
 
 
 <details>
     <summary>Learn more about me</summary>
-</br>
 </br>
 
 ### 👨‍💻 Have a look at some of my work:
