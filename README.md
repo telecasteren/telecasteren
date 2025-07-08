@@ -36,7 +36,8 @@ I'm a **Onboarding manager** for a software company called Cubit, delivering **A
 Noroff School of Technology and Digital Media - [Noroff University](https://www.noroff.no/en/studies/vocational-school/front-end-development)
 
 **Other studies**<br/>
-[Rustlings](https://github.com/rust-lang/rustlings) and [Book of Rust](https://doc.rust-lang.org/stable/book/)
+- [Rustlings](https://github.com/rust-lang/rustlings) and [Book of Rust](https://doc.rust-lang.org/stable/book/)<br/>
+- [elm-programming](https://elmprogramming.com)
 
 ## Skills and experience:
 
