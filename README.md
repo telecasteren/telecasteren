@@ -17,7 +17,6 @@ My name is Tele Caster Nilsen, and I’m a web developer and project manager wit
 ### 👨‍💻 Have a look at some of my work:
 
 - [Portfolio](https://telecasteren.github.io/)
-- [Website - telecasternilsen](https://telecasternilsen.netlify.app/)
 
 ### 📫 How to reach me:
 
