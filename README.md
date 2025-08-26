@@ -20,7 +20,7 @@ My name is Tele Caster Nilsen, and I’m a web developer and project manager wit
 
 ### 📫 How to reach me:
 
-- [telecasternilsen](https://telecasteren.github.io/)
+- [telecasternilsen](www.telecasteren.com)
 - [LinkedIn profile](https://www.linkedin.com/in/tele-caster-nilsen-7002b9249/)
 
 ## Work and Studies
