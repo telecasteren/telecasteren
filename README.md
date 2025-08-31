@@ -15,7 +15,7 @@ My name is Tele, and I like building cool stuff.
 
 ### Portfolio
 
-- [Portfolio](www.telecasteren.com)
+- [Portfolio](https://telecasternilsen.com)
 
 ### Reach me:
 
