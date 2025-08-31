@@ -44,7 +44,7 @@ Noroff School of Technology and Digital Media - [Noroff University](https://www.
 
 
 **Tools & Frameworks**
-✅ [Git](https://git-scm.com/), [VS Code](https://code.visualstudio.com/), [Node.js](https://nodejs.org/en), [Next.js](https://nodejs.org/en), [React](https://react.dev/), [Tailwind](https://tailwindcss.com/), [Bootstrap](https://getbootstrap.com/)<br/>
+- [Git](https://git-scm.com/), [VS Code](https://code.visualstudio.com/), [Node.js](https://nodejs.org/en), [Next.js](https://nodejs.org/en), [React](https://react.dev/), [Tailwind](https://tailwindcss.com/), [Bootstrap](https://getbootstrap.com/)<br/>
 
 **Database and deployment tools**
 - Docker, Vercel, Firebase, Render
