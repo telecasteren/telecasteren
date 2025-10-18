@@ -47,8 +47,8 @@ Tiny taste:
 - [telecasternilsen](https://telecasternilsen.com/#contact)
 - [LinkedIn profile](https://www.linkedin.com/in/tele-caster-nilsen-7002b9249/)
 
-🔭 Continuously working on toning my developer skills, by adding to my tech stack.<br/>
-👨‍🎓 Currently a student at [Noroff University](#studies).<br/>
+
+👨‍🎓 A part-time student at [Noroff University](#studies).<br/>
 🌱 In my spare time, learning **Rust** with [Rustlings](https://github.com/rust-lang/rustlings), and **Elm** with [elm-programming](https://elmprogramming.com)
 
 ## Work and Studies
