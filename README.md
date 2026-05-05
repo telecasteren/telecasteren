@@ -13,7 +13,6 @@ Otherwise grinding my skills in all things coding.
 
 <details>
     <summary>Learn more about me</summary>
-</br>
 
 ### Reach me:
 
@@ -22,9 +21,10 @@ Otherwise grinding my skills in all things coding.
 - [linkedIn](https://www.linkedin.com/in/tele-caster-nilsen-7002b9249/)
 
 
-👨‍🎓 A part-time student at [Noroff University](#studies).<br/>
+👨‍🎓 A student at [Noroff University](#studies).<br/>
 🌱 In my spare time, I work on my own projects, focusing on learning and evolving.
 
+---
 
 ### School:<br/>
 
@@ -43,18 +43,19 @@ Noroff School of Technology and Digital Media - [Noroff University](https://www.
 🟠 [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) _(Beginner)_ <br/>
 🟠 [.NET](https://dotnet.microsoft.com/en-us/) _(Beginner)_
 
-**Preferred IDEs**
-- [VS Code](https://code.visualstudio.com/)
-- [Zed](https://zed.dev)
+---
 
-**Tools & Frameworks**
+**Preferred IDEs**
+- [VS Code](https://code.visualstudio.com/), [Zed](https://zed.dev)
+
+**Tools & other frameworks**
 - Git, Postman, Node.js, Express.js, Next.js, MUI, Bootstrap
 
-**Database and deployment tools**
+**Database and deployment**
 - Docker, Vercel, Netlify, Render, Firebase, Prisma(ORM), Neon, Upstash/Redis
 
 ---
 
-**Here's a cool button**
+**Oh, and here's a cool button**
 🐍 <a href="https://codepen.io/telecasteren/pen/MYKrpoK" target="_blank">Snake button</a>
 </details>
