@@ -38,17 +38,23 @@ Noroff School of Technology and Digital Media - [Noroff University](https://www.
 
 ### Core foundation
 ✅ HTML, CSS, JavaScript, Typescript, MySQL / SQL<br/>
+✅ React, Redux, Zod, Tailwind<br/>
 🟠 [Rust](https://doc.rust-lang.org/stable/book/) _(Beginner)_ <br/>
 🟠 [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) _(Beginner)_ <br/>
 🟠 [.NET](https://dotnet.microsoft.com/en-us/) _(Beginner)_
 
+**Preferred IDEs**
+- [VS Code](https://code.visualstudio.com/)
+- [Zed](https://zed.dev)
 
 **Tools & Frameworks**
-- [Git](https://git-scm.com/), [VS Code](https://code.visualstudio.com/), [Cursor](https://cursor.com/home), [Node.js](https://nodejs.org/en), [Next.js](https://nodejs.org/en), [React](https://react.dev/), [Tailwind](https://tailwindcss.com/), [Bootstrap](https://getbootstrap.com/)<br/>
+- Git, Postman, Node.js, Express.js, Next.js, MUI, Bootstrap
 
 **Database and deployment tools**
 - Docker, Vercel, Netlify, Render, Firebase, Prisma(ORM), Neon, Upstash/Redis
 
-Here's a cool button:
+---
+
+**Here's a cool button**
 🐍 <a href="https://codepen.io/telecasteren/pen/MYKrpoK" target="_blank">Snake button</a>
 </details>
