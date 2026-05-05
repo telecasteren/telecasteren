@@ -6,7 +6,7 @@ My name is Tele, and I like building cool stuff.
 
 ```bash
 > npm start
-You'll find me drinking coffee, with coding projects, diving into music and at concerts.
+Often found drinking coffee, with coding projects, diving into music and at concerts.
 Otherwise grinding my skills in all things coding.
 ```
 
