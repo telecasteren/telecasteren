@@ -4,34 +4,11 @@ My name is Tele, and I like building cool stuff.
 
 ---
 
-```ts
-const WhatISpendMyTimeOn = (): string => {
-    let learning: string | string[] = "Noroff University";
-    const spareTime = 4325;
-    
-    if (spareTime > 0) {
-        learning = ["all things coding", "Elm", "C#", "Rust"];
-
-        const hobbies: string[] = ["coffee", "coding projects", "music and concerts"];
-        const myPassions = `You'll find me with ${hobbies.join(", ")}, or grinding my skills ${learning.join(", ")}`);
-
-        return myPassions;
-    } else {
-        console.log("Grinding my day job or sleeping")
-        return;
-    }
-}
-console.log(WhatISpendMyTimeOn());
-// spareTime: approx. hours remaining during 1 year after work and sleep are subtracted
-```
 ```bash
 > npm start
-You'll find me with coffee, coding projects, music and concerts,
-or grinding my skills in all things coding, Elm, C#, Rust
+You'll find me drinking coffee, with coding projects, diving into music and at concerts.
+Otherwise grinding my skills in all things coding.
 ```
-
-Tiny taste:
-🐍 <a href="https://codepen.io/telecasteren/pen/MYKrpoK" target="_blank">Snake button</a>
 
 
 <details>
@@ -44,18 +21,14 @@ Tiny taste:
 
 ### Reach me:
 
+- [website](https://telecasternilsen.com)
 - [telecasternilsen](https://telecasternilsen.com/#contact)
-- [LinkedIn profile](https://www.linkedin.com/in/tele-caster-nilsen-7002b9249/)
+- [linkedIn](https://www.linkedin.com/in/tele-caster-nilsen-7002b9249/)
 
 
 👨‍🎓 A part-time student at [Noroff University](#studies).<br/>
-🌱 In my spare time, learning **Rust** with [Rustlings](https://github.com/rust-lang/rustlings), and **Elm** with [elm-programming](https://elmprogramming.com)
+🌱 In my spare time, I work on my own projects, focusing on learning and evolving.
 
-## Work and Studies
-
-### Work:
-
-I'm a **Onboarding manager** for a software company called Cubit, delivering **Audit Caseflow Systems** for Governmental bodies. There I'm in charge of handling new incoming clients and see to their data is being converted efficiently. So I dive into different databases, tackling problems on a steady basis.
 
 ### School:<br/>
 
@@ -64,10 +37,11 @@ Noroff School of Technology and Digital Media - [Noroff University](https://www.
 
 **Other studies**<br/>
 - [Rustlings](https://github.com/rust-lang/rustlings) and [Book of Rust](https://doc.rust-lang.org/stable/book/)<br/>
-- [elm-programming](https://elmprogramming.com)
+- Java
+- C#
 
 ### Core foundation
-✅ HTML, CSS, JavaScript, Typescript, Elm, MySQL / SQL<br/>
+✅ HTML, CSS, JavaScript, Typescript, MySQL / SQL<br/>
 🟠 [Rust](https://doc.rust-lang.org/stable/book/) _(Beginner)_ <br/>
 🟠 [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) _(Beginner)_ <br/>
 🟠 [.NET](https://dotnet.microsoft.com/en-us/) _(Beginner)_
@@ -78,4 +52,7 @@ Noroff School of Technology and Digital Media - [Noroff University](https://www.
 
 **Database and deployment tools**
 - Docker, Vercel, Netlify, Render, Firebase, Prisma(ORM), Neon, Upstash/Redis
+
+Here's a cool button:
+🐍 <a href="https://codepen.io/telecasteren/pen/MYKrpoK" target="_blank">Snake button</a>
 </details>
