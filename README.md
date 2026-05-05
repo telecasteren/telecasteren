@@ -15,10 +15,6 @@ Otherwise grinding my skills in all things coding.
     <summary>Learn more about me</summary>
 </br>
 
-### Portfolio
-
-- [Portfolio](https://telecasternilsen.com)
-
 ### Reach me:
 
 - [website](https://telecasternilsen.com)
