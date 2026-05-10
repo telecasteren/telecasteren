@@ -10,6 +10,18 @@ Often found drinking coffee, with coding projects, diving into music and at conc
 Otherwise grinding my skills in all things coding.
 ```
 
+```bash
+        
+      \  \    /   /
+    ___________________
+    |                 |
+    |░░░░░░░░░░░░░░░░░|---|
+     \███████████████/___/
+      \█████████████/
+
+
+```
+
 
 <details>
     <summary>Learn more about me</summary>
