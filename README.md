@@ -8,9 +8,7 @@ My name is Tele, and I like building cool stuff.
 > npm start
 Often found drinking coffee, with coding projects, diving into music and at concerts.
 Otherwise grinding my skills in all things coding.
-```
 
-```bash
         
       \  \    /   /
     ___________________
