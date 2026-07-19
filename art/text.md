@@ -5,3 +5,6 @@ Thanks to [Github banners](https://mikewall.dev/tools/github-banners) by Mike Wa
 
 **Typing text**
 Thanks to [readme_typing by Jonah Lawrence](https://readme-typing-svg.demolab.com/demo/)
+
+**Blob element**
+Thanks to [capsule-render](https://capsule-render.vercel.app)
