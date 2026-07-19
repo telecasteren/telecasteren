@@ -3,6 +3,13 @@
    <img alt="Logo for telecasternilsen" src="art/header-light.png">
 </picture>
 
+<h1 align="center" color="">Hi there, I'm Tele!</h1>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geomini&duration=3000&pause=1000&color=41C600&center=true&vCenter=true&width=435&lines=Notoriously+curious;Fullstack+Developer;User-centric;Problem+solver;AI+Builder" alt="Typing SVG" /></a>
+</p>
+
+
 
 ---
 
