@@ -32,27 +32,16 @@
 
 ```
 
+👨‍🎓 Student at [Noroff University](#studies).<br/>
+🌱 Focused on learning and evolving both as dev and human.
+
 
 ### Reach me:
 
 - [telecasternilsen](https://telecasternilsen.com/#contact)
 - [linkedIn](https://www.linkedin.com/in/tele-caster-nilsen-7002b9249/)
 
-
-👨‍🎓 A student at [Noroff University](#studies).<br/>
-🌱 Focused on learning and evolving both as dev and human.
-
 ---
-
-### School:<br/>
-
-**Front-End development**<br/>
-Noroff School of Technology and Digital Media - [Noroff University](https://www.noroff.no/en/studies/vocational-school/front-end-development)
-
-**Other studies**<br/>
-- [Rustlings](https://github.com/rust-lang/rustlings) and [Book of Rust](https://doc.rust-lang.org/stable/book/)<br/>
-- Java
-- C#
 
 ### Core foundation
 ✅ HTML, CSS, JavaScript, Typescript, MySQL / SQL<br/>
@@ -62,9 +51,6 @@ Noroff School of Technology and Digital Media - [Noroff University](https://www.
 🟠 [.NET](https://dotnet.microsoft.com/en-us/) _(Beginner)_
 
 ---
-
-**Preferred IDEs**
-- [VS Code](https://code.visualstudio.com/), [Zed](https://zed.dev)
 
 **Tools & other frameworks**
 - Git, Postman, Node.js, Express.js, Next.js, MUI, Bootstrap
