@@ -11,6 +11,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&section=header" alt="blob element"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=telecasteren&bg_color=0D1117&color=36ce32&line=00ab00&point=36ce32&area=true&area_color=72ff6b&hide_border=true" alt="Github activity graph" />
 
 ---
 
