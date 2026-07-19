@@ -76,4 +76,6 @@ Noroff School of Technology and Digital Media - [Noroff University](https://www.
 
 **Oh, and here's a cool button**
 🐍 <a href="https://codepen.io/telecasteren/pen/MYKrpoK" target="_blank">Snake button</a>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10" alt="bottom-line"/></div>
 </details>
