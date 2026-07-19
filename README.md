@@ -1,13 +1,14 @@
-## Hello there 👋
-
-My name is Tele, and I like building cool stuff.
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for telecasternilsen" src="art/header-light.png">
+</picture>
 
 ---
 
 ```bash
 > npm start
-Often found drinking coffee, with coding projects, diving into music and at concerts.
-Otherwise grinding my skills in all things coding.
+Drinking coffee, deep in my projects, listening to music or out skating.
+...else, grinding my skills in all things coding.
 
         
       \  \    /   /
@@ -22,7 +23,7 @@ Otherwise grinding my skills in all things coding.
 
 
 <details>
-    <summary>Learn more about me</summary>
+    <summary>Learn more</summary>
 
 ### Reach me:
 
@@ -32,7 +33,7 @@ Otherwise grinding my skills in all things coding.
 
 
 👨‍🎓 A student at [Noroff University](#studies).<br/>
-🌱 In my spare time, I work on my own projects, focusing on learning and evolving.
+🌱 Focused on learning and evolving both as dev and human.
 
 ---
 
