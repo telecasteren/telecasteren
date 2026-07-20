@@ -55,9 +55,7 @@
 <div align="center">
 ✅ HTML, CSS, JavaScript, Typescript, MySQL / SQL<br/>
 ✅ React, Redux, Zod, Tailwind<br/>
-🟠 [Rust](https://doc.rust-lang.org/stable/book/) _(Beginner)_ <br/>
-🟠 [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) _(Beginner)_ <br/>
-🟠 [.NET](https://dotnet.microsoft.com/en-us/) _(Beginner)_
+🟠 Rust, C#, .NET, Elm<br/>
 </div>
 
 
@@ -65,12 +63,12 @@
 
 <h3 align="center">Tools & other frameworks</h3>
 <div align="center">
-Git, Postman, Node.js, Express.js, Next.js, MUI, Bootstrap
+Git, Bash, Postman, Node.js, Express.js, Next.js, MUI, Bootstrap
 </div>
 
 <h3 align="center">Database and deployment</h3>
 <div align="center">
-Docker, Vercel, Netlify, Render, Firebase, Prisma(ORM), Neon, Upstash/Redis
+Docker, Netlify, Vercel, Prisma, Neon, Render, Firebase, Upstash/Redis
 </div>
 
 ---
