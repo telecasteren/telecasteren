@@ -9,4 +9,7 @@ Thanks to [readme_typing by Jonah Lawrence](https://readme-typing-svg.demolab.co
 **Blob element:**
 Thanks to [capsule-render](https://capsule-render.vercel.app)
 
+**Skill icons:**
+Thanks to [tandpfun](https://github.com/tandpfun/skill-icons#readme)
+
 And thanks to [Houria](https://github.com/Houria-hs) for the Github readme tool inspo!
