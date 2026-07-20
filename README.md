@@ -11,10 +11,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&section=header" alt="blob element"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=telecasteren&bg_color=0D1117&color=36ce32&line=00ab00&point=36ce32&area=true&area_color=72ff6b&hide_border=true" alt="Github activity graph" />
+<h2 align="center">Tech stack</h2>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,react,mysql,git,nextjs,nodejs,express,materialui,bootstrap,docker,vercel,netlify,firebase,prisma,redis,bash,cs,dotnet,figma,github,md,npm,pnpm,redux,postgres,rust,tailwind,tauri,vscode,wordpress,)](https://skillicons.dev" alt="core-skills-icons"/>
+</div>
 
----
-
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10" alt="bottom-line"/></div>
+<br/>
 
 <details>
 <summary>npm start (click)</summary>
@@ -34,6 +37,8 @@
 <div align="center">👨‍🎓 Student at <a href="https://www.noroff.no/en">Noroff University</a><br/>
 🌱 Focused on learning and evolving both as dev and human.</div>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=telecasteren&bg_color=0D1117&color=36ce32&line=00ab00&point=36ce32&area=true&area_color=72ff6b&hide_border=true" alt="Github activity graph" />
+
 
 <h2 align="center">Reach me:</h2>
 
@@ -46,7 +51,6 @@
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10" alt="bottom-line"/></div>
 
-
 <h2 align="center">Core foundation</h2>
 <div align="center">
 ✅ HTML, CSS, JavaScript, Typescript, MySQL / SQL<br/>
@@ -56,18 +60,22 @@
 🟠 [.NET](https://dotnet.microsoft.com/en-us/) _(Beginner)_
 </div>
 
----
-
-<h3>Tools & other frameworks</h3>
-- Git, Postman, Node.js, Express.js, Next.js, MUI, Bootstrap
-
-<h3>Database and deployment</h3>
-- Docker, Vercel, Netlify, Render, Firebase, Prisma(ORM), Neon, Upstash/Redis
 
 ---
 
-<h4>Oh, and here's a cool button</h4>
-🐍 <a href="https://codepen.io/telecasteren/pen/MYKrpoK" target="_blank">Snake button</a>
+<h3 align="center">Tools & other frameworks</h3>
+<div align="center">
+Git, Postman, Node.js, Express.js, Next.js, MUI, Bootstrap
+</div>
+
+<h3 align="center">Database and deployment</h3>
+<div align="center">
+Docker, Vercel, Netlify, Render, Firebase, Prisma(ORM), Neon, Upstash/Redis
+</div>
+
+---
+
+<div align="center"><h4>Oh, and here's a cool button</h4> 🐍 <a href="https://codepen.io/telecasteren/pen/MYKrpoK" target="_blank">Snake button</a></div>
 
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10" alt="bottom-line"/></div>
