@@ -33,7 +33,7 @@ Noroff School of Technology and Digital Media</a>. (Vocational degree, 120 ESTC)
 </div>
 
 
-<h2 align="start">Reach me:</h2>
+<h3 align="start">Lets connect:</h3>
 
 <div align="start">
    <a href="https://telecasternilsen.com/#contact">telecasternilsen</a> | 
@@ -44,9 +44,9 @@ Noroff School of Technology and Digital Media</a>. (Vocational degree, 120 ESTC)
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10" alt="bottom-line"/></div>
 
-<h2 align="center">Core foundation</h2>
+<h4 align="center">Core foundation</h4>
 <div align="center">
-✅ HTML, CSS, JavaScript, Typescript, MySQL / SQL<br/>
+✅ HTML, CSS, JavaScript, TypeScript, MySQL / SQL<br/>
 ✅ React, Redux, Zod, Tailwind, MUI<br/>
 🟠 Rust, C#, .NET, Elm<br/>
 </div>
@@ -54,19 +54,19 @@ Noroff School of Technology and Digital Media</a>. (Vocational degree, 120 ESTC)
 
 ---
 
-<h3 align="center">Tools & other frameworks</h3>
+<h4 align="center">Tools & other frameworks</h4>
 <div align="center">
 Git, Bash, Postman, Node.js, Express.js, Next.js, Bootstrap
 </div>
 
-<h3 align="center">Database and deployment</h3>
+<h4 align="center">Database and deployment</h4>
 <div align="center">
 Docker, Netlify, Vercel, Prisma, Neon, Render, Firebase, Upstash/Redis
 </div>
 
 ---
 
-<div align="center"><h4>Oh, and here's a cool button</h4> 🐍 <a href="https://codepen.io/telecasteren/pen/MYKrpoK" target="_blank">Snake button</a></div>
+<div align="center"><h5>Oh, and here's a cool button</h5> 🐍 <a href="https://codepen.io/telecasteren/pen/MYKrpoK" target="_blank">Snake button</a></div>
 
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10" alt="bottom-line"/></div>
